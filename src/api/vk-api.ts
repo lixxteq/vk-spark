@@ -1,10 +1,10 @@
 import axios from "axios";
-import { useQuery } from "react-query";
+import { useQuery } from "@tanstack/react-query";
 
 
-const useGetUserAudios = (userData) => {
-    return useQuery('user-audio', (userData) => {
-    })
-}
+// const useGetUserAudios = (userData) => {
+//     return useQuery('user-audio', (userData) => {
+//     })
+// }
 
-export { useGetUserAudios }
+export {  }
