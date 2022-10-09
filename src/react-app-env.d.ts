@@ -1,6 +1,4 @@
 /// <reference types="react-scripts" />
-declare module 'easyvk-audio'
-
 
 declare namespace NodeJS {
       interface ProcessEnv {
